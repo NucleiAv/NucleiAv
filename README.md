@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Anmol Vats</h1>
-<h3 align="center">Hello Everyone, I am Anmol Vats. My fields of interest are Cybersecurity, Ethical Hacking and Web Development. I am a Talented student focused on learning all aspects of Cybersecurity. I am an Undergraduate at LNMIIT Jaipur in the field of Computer Science. I am a member of team DS Underdogs. You can find my project FyreFli there.</h3>
+<h3 align="center">Hello Everyone, I am Anmol Vats. I am a Cybersecurity Enthusiast. I am an Undergraduate at LNMIIT Jaipur in the field of Computer Science. I am a member of team DS Underdogs. You can find my project FyreFli there.</h3>
 <img align="right" alt= "Code" width="400" src="https://media2.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=790b7611d87ea0cfa26f1747ff1cb458d00f6aaa4438baba&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nucleiav&label=Profile%20views&color=0e75b6&style=flat" alt="nucleiav" /> </p>
 
