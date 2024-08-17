@@ -5,16 +5,6 @@
 <img align="right" alt= "Code" width="400" src="https://media2.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=790b7611d87ea0cfa26f1747ff1cb458d00f6aaa4438baba&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nucleiav&label=Profile%20views&color=0e75b6&style=flat" alt="nucleiav" /> </p>
 
-- 🌱 My field of interest in Cybersecurity are **Cryptography, Web Security, Cyber Policies/Laws, OSINT and Digital Forensics.**
-
-- DS Underdogs GitHub: [https://github.com/DSUnderdogs](https://github.com/DSUnderdogs)
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/myportfolio1053/home](https://sites.google.com/view/myportfolio1053/home) and [https://github.com/DSUnderdogs](https://github.com/DSUnderdogs)
-
-- 📫 How to reach me **anmolvats2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fISmX4EIEJIc28wFRoyiiRrvObGoNtz6/view?pli=1](https://drive.google.com/file/d/1fISmX4EIEJIc28wFRoyiiRrvObGoNtz6/view?pli=1)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuclei_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuclei_av" height="30" width="40" /></a>
