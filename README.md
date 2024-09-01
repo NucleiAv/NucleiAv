@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucleiav&show_icons=true&locale=en&layout=compact" alt="nucleiav" /></p>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=nucleiav&show_icons=true&locale=en">My GitHub Stats</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=nucleiav&show_icons=true&locale=en">My GitHub Stats</a> -->
 
 <!--
 **NucleiAv/NucleiAv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
