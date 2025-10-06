@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/nuclei_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuclei_av" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmol-vats-273855228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-vats-273855228" height="30" width="40" /></a>
-<a href="https://instagram.com/nuclei_.av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuclei_.av" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
