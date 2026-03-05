@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm newklei</h1>
 <h3 align="center">a cybersecurity geek, a security researcher, a network audio engineer at hsrn and a grad at new york university.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nucleiav&label=Profile%20views&color=0e75b6&style=flat" alt="nucleiav" /> </p>
+<p align="center">
+  <a href="https://github.com/advisories?query=credit%3ANucleiAv" target="_blank" rel="noreferrer">
+    My GitHub Security Advisories
+  </a>
+</p>
+
 
 <!--<img align="right" alt= "Code" width="400" src="https://media2.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=790b7611d87ea0cfa26f1747ff1cb458d00f6aaa4438baba&rid=giphy.gif&ct=g"> -->
 
