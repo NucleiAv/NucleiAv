@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm newklei</h1>
-<h3 align="center">simply a cybersecurity geek, security researcher, network audio engineer (@hsrn) and a grad at new york university.</h3>
+<h1 align="center">hi, i'm newklei</h1>
+<h3 align="center">just a cybersecurity geek, security researcher, network audio engineer (@hsrn) and a grad at nyu.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nucleiav&label=Profile%20views&color=0e75b6&style=flat" alt="nucleiav" /> </p>
 <p align="center">
   <a href="https://github.com/advisories?query=credit%3ANucleiAv" target="_blank" rel="noreferrer">
